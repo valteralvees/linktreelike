@@ -1,0 +1,199 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap');
+
+body{
+    position: relative;
+    width: 414px;
+    height: 736px;
+
+    background: #FFFFFF;
+}
+#topo{
+    position: absolute;
+    width: 421px;
+    height: 216px;
+    left: -4px;
+    top: 0px;
+}
+
+nav ol{
+    list-style: none;
+}
+#item1{
+    position: absolute;
+    width: 366px;
+    height: 53px;
+    left: 24px;
+    top: 220px;
+
+    background: #8258E5;
+    border-radius: 20px;
+}
+#item2 {
+    position: absolute;
+    width: 366px;
+    height: 53px;
+    left: 23px;
+    top: 294px;
+
+    background: #8258E5;
+    border-radius: 20px;
+}
+#item3{
+    position: absolute;
+    width: 366px;
+    height: 53px;
+    left: 24px;
+    top: 368px;
+
+    background: #8258E5;
+    border-radius: 20px;
+}
+#item4{
+    position: absolute;
+    width: 366px;
+    height: 53px;
+    left: 24px;
+    top: 442px;
+    
+    background: #8258E5;
+    border-radius: 20px;
+}
+
+#t1{
+    position: absolute;
+    width: 168px;
+    height: 10px;
+    left: 50px;
+    top: -15px;
+
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 30px;
+
+    color: white;
+
+}
+#t2{
+    position: absolute;
+    width: 168px;
+    height: 10px;
+    left: 50px;
+    top: -15px;
+    white-space: nowrap;
+    /*Cancela quebra de linha*/
+
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 30px;
+
+    color: white;
+
+}
+#t3{
+    position: absolute;
+    width: 168px;
+    height: 10px;
+    left: 50px;
+    top: -15px;
+
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 30px;
+
+    color: white;
+
+}
+#t4{
+    position: absolute;
+    width: 168px;
+    height: 10px;
+    left: 50px;
+    top: -15px;
+
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 30px;
+
+    color: white;
+
+}
+#img1{
+    size: 100%;
+    position: fixed;
+    width: 34px;
+    height: 34px;
+    left: 339px;
+    top: 234px;
+
+}
+#img2{
+    size: 100%;
+    position: fixed;
+    width: 34px;
+    height: 34px;
+    left: 339px;
+    top: 310px;
+
+}
+#img3{
+    size: 100%;
+    position: fixed;
+    width: 34px;
+    height: 34px;
+    left: 339px;
+    top: 382px;
+
+}
+#img4{
+    size: 100%;
+    position: fixed;
+    width: 34px;
+    height: 34px;
+    left: 339px;
+    top: 457px;
+
+}
+#link1{
+    display: block;
+    height: 100%;
+    width: 100%;
+    text-decoration: none;
+        
+}
+#link2{
+    display: block;
+    height: 100%;
+    width: 100%;
+    text-decoration: none;
+        
+}
+#link3{
+    display: block;
+    height: 100%;
+    width: 100%;
+    text-decoration: none;
+        
+}
+#link4{
+    display: block;
+    height: 100%;
+    width: 100%;
+    text-decoration: none;
+        
+}
+#rodape{
+    position: absolute;
+    width: 215px;
+    height: 79px;
+    left: 96px;
+    top: 516px;
+
+}
